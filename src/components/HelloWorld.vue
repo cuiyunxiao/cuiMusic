@@ -1,5 +1,5 @@
 <template>
-  <div class="hello" ref="mapbox" style="height:400px;width:600px">
+  <div class="hello" ref="mapbox" style="height:800px;width:1000px">
    
   </div>
 </template>
